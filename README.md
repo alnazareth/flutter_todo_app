@@ -13,6 +13,9 @@ A simple To-Do list application built with Flutter for learning purposes.
 - Local storage using SharedPreferences
 - Modern UI with Material Design
 
+<img width="300" height="460" alt="Screenshot_20251120_221918" src="https://github.com/user-attachments/assets/6af9c5c9-680d-4fd7-9fa0-3d2af6334f6e" />
+
+
 ---
 
 ## 📦 Requirements

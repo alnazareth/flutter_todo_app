@@ -27,7 +27,7 @@ Before running the app, make sure you have:
 
 ## 📦 How to run the project
 
-- clone git clone https://github.com/TU_USUARIO/flutter_todo_app.git
+- clone git clone https://github.com/alnazareth/flutter_todo_app.git
 - Go into the folder: flutter_todo_app
 - Install dependencies: flutter pub get
 - run de App: flutter run
